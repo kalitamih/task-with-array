@@ -1,0 +1,26 @@
+{
+  "name": "task-with-array",
+  "version": "1.0.0",
+  "description": "task with array of chars",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalitamih/task-with-array.git"
+  },
+  "keywords": [
+    "array",
+    "strings"
+  ],
+  "author": "Kalita Mikhail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalitamih/task-with-array/issues"
+  },
+  "homepage": "https://github.com/kalitamih/task-with-array#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
