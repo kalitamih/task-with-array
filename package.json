@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/kalitamih/task-with-array#readme",
   "devDependencies": {
-    "mocha": "^6.1.4"
+    "mocha": "^6.2.3"
   }
 }
